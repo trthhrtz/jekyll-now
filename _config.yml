@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+  
 # Name of your site (displayed in the header)
 name: Kuzma Leshakov
 
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
-encoding: UTF-8
