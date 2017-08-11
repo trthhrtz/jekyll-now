@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439; &#x43F;&#x43E;&#x441;&#x442;'
-tags: python, stepik, mooc
 ---
 
 Тест
