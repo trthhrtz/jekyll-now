@@ -31,5 +31,7 @@ title: XML parsing error(invalid token) caused by PDF
 	So. After some googling I found working <b>solution</b> written in Python (I checked it with version 2). Here it is:
 	<script src="https://gist.github.com/averagesecurityguy/ba8d9ed3c59c1deffbd1390dafa5a3c2.js"></script>
 	Just change "some_doc.pdf" for name of your PDF doc and launch the script.
-	Shout out and many thanks goes to <a href = "https://github.com/averagesecurityguy"> Stephen Haywood </a>
+	Shout out and many thanks goes to <a href = "https://github.com/averagesecurityguy"> Stephen Haywood </a>.
+	<br/><br/>
+	Copy of the post at <a href = "https://stackoverflow.com/questions/45769018/xml-parsing-errorinvalid-token-caused-by-pdf/"> Stackoverflow</a>.
 </p>
